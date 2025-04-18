@@ -7,7 +7,6 @@
 #include <arpa/inet.h>
 #include <sys/select.h>
 
-#define MAX_CLIENTS 10
 #define BUFFER_SIZE 1024
 
 int main() {
